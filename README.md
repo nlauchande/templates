@@ -1,2 +1,7 @@
 # templates
-Reference templates for misc stuff
+
+# ML Project
+https://spandan-madan.github.io/DeepLearningProject/ - ML Project end to end
+
+# Software Design
+https://stratis-storage.github.io/StratisSoftwareDesign.pdf
